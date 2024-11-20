@@ -138,15 +138,8 @@ Contributions are welcome! To contribute:
    ```
 5. Create a Pull Request.
 
----
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgments
-
-- [TensorFlow](https://www.tensorflow.org/) for providing an excellent framework for machine learning.
-- GitHub Actions for enabling seamless CI/CD integration.
+Acknowledgments
+TensorFlow for providing an excellent framework for machine learning.
+GitHub Actions for enabling seamless CI/CD integration.
+School of AI for teaching us this wonderful stuf!!!
